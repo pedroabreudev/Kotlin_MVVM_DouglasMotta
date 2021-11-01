@@ -3,10 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Learning/Youtube/Douglas Motta/Kotlin_MVVM_DouglasMotta/Curso de Android com Kotlin e MVVM/NyBooks/app/src/main/res/layout/activity_books.xml" value="0.3546875" />
         <entry key="..\:/Learning/Youtube/Douglas Motta/Kotlin_MVVM_DouglasMotta/Curso de Android com Kotlin e MVVM/NyBooks/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
-        <entry key="..\:/Users/Corsair/Learning/Youtube/Kotlin_MVVM_DouglasMotta/Curso de Android com Kotlin e MVVM/NyBooks/app/src/main/res/layout/activity_books.xml" value="0.2490740740740741" />
-        <entry key="..\:/Users/Corsair/Learning/Youtube/Kotlin_MVVM_DouglasMotta/Curso de Android com Kotlin e MVVM/NyBooks/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
-        <entry key="..\:/Users/Corsair/Learning/Youtube/Kotlin_MVVM_DouglasMotta/Curso de Android com Kotlin e MVVM/NyBooks/app/src/main/res/layout/item_book.xml" value="0.27291666666666664" />
       </map>
     </option>
   </component>
