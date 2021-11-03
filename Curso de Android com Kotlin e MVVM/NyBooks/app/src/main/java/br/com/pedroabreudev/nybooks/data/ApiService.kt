@@ -9,8 +9,7 @@ object ApiService {
             .baseUrl("https://api.nytimes.com/svc/books/v3/")
             .addConverterFactory(MoshiConverterFactory.create())
             .build()
-
     }
 
-    val service = initRetrofit().create(NYTServices::class.java)
+    val service: NYTServices = initRetrofit().create(NYTServices::class.java)
 }

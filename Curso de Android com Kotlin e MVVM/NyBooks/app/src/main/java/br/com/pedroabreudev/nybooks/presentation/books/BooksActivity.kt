@@ -26,7 +26,7 @@ class BooksActivity : AppCompatActivity() {
                 }
             }
         })
-        viewModel.getBooks()
+        //viewModel.getBooks()
     }
 
 
